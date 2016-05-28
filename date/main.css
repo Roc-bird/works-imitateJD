@@ -970,6 +970,7 @@ a:hover {
 	margin: 0;
 	text-align: center;
 	border-left: 1px solid #e4e4e4;
+	font-size: 13px;
 }
 
 .floor-submenu:first-child .floor-submenu-tt {
